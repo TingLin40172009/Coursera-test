@@ -1,0 +1,43 @@
+body {
+	background-color: #f6ffd6;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900; 
+	color: #ff4e50;	
+	text-shadow: 3px 3px 3px #b8b8b8;
+}
+
+.navbar-brand {
+	position: relative;
+	bottom: 29px;
+}
+
+#header-nav {
+	background-color: #eae374;
+}
+
+.navbar-toggle {
+	position: relative;
+	float: right;
+	background-color: white;
+}
+
+a, a:hover, a:visited {
+	text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #767676;
+}
+
+#collapsable-nav ul li:hover {
+	background-color: rgba(251,251,251,0.7);
+}
+
+#text {
+	padding: 30px;
+	margin: 30px;
+	background-color: #fbfbfb;
+}
